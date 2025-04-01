@@ -38,7 +38,7 @@ Before running the project, ensure you have the following installed:
    ```bash
    pip install pyyaml
    ```
-
+![img](https://github.com/Svadha29/yaml_usecase/blob/3b1a48a5ec0107c8bdf64d06319923a36ff5a36d/image.png)
 ## 📄 YAML File (students.yaml)
 Create a `students.yaml` file with the following structure:
 ```yaml
