@@ -81,7 +81,7 @@ Students with GPA >= 3.6:
 Name: Alice, Age: 21, Major: Computer Science, GPA: 3.8
 Name: Charlie, Age: 20, Major: Physics, GPA: 3.9
 ```
-
+![img](https://github.com/Svadha29/yaml_usecase/blob/5060f8271c126091a8a32332f06d07ec00d3f858/image%20copy.png)
 
 
 
